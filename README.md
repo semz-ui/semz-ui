@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semz-ui&label=Profile%20views&color=0e75b6&style=flat" alt="semz-ui" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=semz-ui" alt="semz-ui" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@semz01" target="blank"><img src="https://img.shields.io/twitter/follow/@semz01?logo=twitter&style=for-the-badge" alt="@semz01" /></a> </p>
 
@@ -16,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@semz01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@semz" height="30" width="40" /></a>
+<a href="https://twitter.com/@semz01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@semz01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/olotu-michael-936553221/overlay/background-image/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/olotu-michael-936553221/overlay/background-image/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13942483/michael-timilehin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13942483/michael-timilehin" height="30" width="40" /></a>
 </p>
