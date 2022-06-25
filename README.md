@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A passionate frontend developer with knowledge of backend from Nigeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=semz-ui&label=Profile%20views&color=0e75b6&style=flat" alt="semz-ui" /> </p>
 
 <p align="left"> <a href="https://github.com/semz-ui/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=semz-ui" alt="semz-ui" /></a> </p>
 
