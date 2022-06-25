@@ -2,7 +2,7 @@ Title
 Hi 👋, I'm
 Michael
 Subtitle
-A passionate frontend developer with knowledge of backend from Nigeria
+A passionate Mern Stack developer from Nigeria
 Work
 🌱 I’m currently learning
 React, React native, Nodejs, Expressjs, Redux, Typescript. Sass
