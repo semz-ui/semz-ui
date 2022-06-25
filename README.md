@@ -65,11 +65,12 @@ Other
 git
 
 Social
+
 github
 semz-ui
 
 twitter
-@semz
+@semz01
 
 stackoverflow
 https://stackoverflow.com/users/13942483/michael-timilehin
