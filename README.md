@@ -67,72 +67,12 @@ git
 Social
 github
 semz-ui
+
 twitter
 @semz
-dev.to
-dev.to username
-codepen
-codepen username
-codesandbox
-codesandbox username
+
 stackoverflow
 https://stackoverflow.com/users/13942483/michael-timilehin
+
 linkedin
 https://www.linkedin.com/in/olotu-michael-936553221/overlay/background-image/
-kaggle
-kaggle username
-facebook
-facebook username
-instagram
-instagram username
-dribbble
-dribbble username
-behance
-behance username
-hashnode
-hashnode username (with @)
-medium
-medium username (with @)
-youtube
-youtube channel name
-codechef
-codechef username
-hackerrank
-hackerrank username
-codeforces
-codeforces username
-leetcode
-leetcode username
-topcoder
-topcoder username
-hackerearth
-hackerearth user (with @)
-geeksforgeeks
-GFG (<username>/profile)
-discord
-discord invite (only code)
-rssfeed
-RSS feed URL
-Add-ons
-
-display visitors count badge
-
-
-display github trophy
-
-display github profile stats card
-
-
-display top skills
-
-
-display github streak stats
-
-
-display twitter badge
-
-display latest dev.to blogs dynamically (GitHub Action)
-
-display latest medium blogs dynamically (GitHub Action)
-
-display latest blogs from your personal blog dynamically (GitHub Action)
