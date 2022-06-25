@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semz-ui&label=Profile%20views&color=0e75b6&style=flat" alt="semz-ui" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/@semz01" target="blank"></a> </p>
+<p align="left"> <a href="https://twitter.com/@semz01" target="blank"><img src="https://img.shields.io/twitter/follow/@semz01?logo=twitter&style=for-the-badge" alt="@semz01" /></a> </p>
 
 - 🌱 I’m currently learning **React, React native, Nodejs, Expressjs, Redux, Typescript. Sass**
 
