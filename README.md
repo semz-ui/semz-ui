@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">A passionate Mern Stack from Nigeria 💚</h3>
+<h3 align="center">A passionate Mernstack Developer from Nigeria 💚</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semz-ui&label=Profile%20views&color=0e75b6&style=flat" alt="semz-ui" /> </p>
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://semz-ui.github.io/myPortfolio/](https://semz-ui.github.io/myPortfolio/)
 
-- 💬 Ask me about **react, redux**
+- 💬 Ask me about **react, redux, javascript**
 
 - 📫 How to reach me **michaeltimilehin36@gmail.com**
 
