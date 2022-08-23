@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/semz01" target="blank"><img src="https://img.shields.io/twitter/follow/semz01?logo=twitter&style=for-the-badge" alt="semz01" /></a> </p>
 
-- 🌱 I’m currently learning **React, React native, Nodejs, Expressjs, Redux, Typescript, Sass**
+- 🌱 I develop apps using **React, React native, Nodejs, Expressjs, Redux, Typescript, Sass**
 
 - 👨‍💻 All of my projects are available at [https://semz-ui.github.io/myPortfolio/](https://semz-ui.github.io/myPortfolio/)
 
-- 💬 Ask me about **react, redux, javascript**
+- 💬 Ask me about **react, redux, javascript, typescript.**
 
 - 📫 How to reach me  **michaeltimilehin36@gmail.com**
 
